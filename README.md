@@ -11,13 +11,13 @@ Almost all of these live on dockerhub under [jess](https://hub.docker.com/u/jess
 You may also want to checkout my [dotfiles](https://github.com/jessfraz/dotfiles), specifically the aliases for all these files which are here: [github.com/jessfraz/dotfiles/blob/master/.dockerfunc](https://github.com/jessfraz/dotfiles/blob/master/.dockerfunc).
 
 Container                                    | Description
--------------------------------------------- | ------------------------------------------------------------------------------------------------------------------
-[ab](./ab)                                   |
-[afterthedeadline](./afterthedeadline)       |
+-------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------
+[ab](./ab)                                   | [ApacheBench](https://httpd.apache.org/docs/2.4/programs/ab.html) Apache HTTP server benchmarking tool
+[afterthedeadline](./afterthedeadline)       | [After the Deadline](http://afterthedeadline.com/). Free web-based writing style checker.
 [android-tools](./android-tools)             |
-[ansible](./ansible)                         |
+[ansible](./ansible)                         | [Ansible](https://www.ansible.com/) is an IT orchestration engine that automates configuration management, application deployment and many other IT needs.
 [apt-file](./apt-file)                       |
-[atom](./atom)                               |
+[atom](./atom)                               | [Atom](https://atom.io/) A hackable text editor for the 21st Century
 [audacity](./audacity)                       |
 [awscli](./awscli)                           |
 [beeswithmachineguns](./beeswithmachineguns) |
@@ -152,7 +152,7 @@ Container                                    | Description
 [traceroute](./traceroute)                   |
 [transmission](./transmission)               |
 [transmission-ui](./transmission-ui)         |
-[travis](./travis)                           |
+[travis](./travis)                           | [Travis](https://github.com/travis-ci/travis.rb) continious integration client (CLI)
 [vagrant](./vagrant)                         |
 [vault](./vault)                             |
 [virtualbox](./virtualbox)                   |
